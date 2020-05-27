@@ -2,6 +2,7 @@
 
 These are questions and answers of **day1**,**day2** and **day3** Tasks:
 
+Hi.I am Chetana Tijare
 ## Task 1:
 
 1.What is git and Github?
